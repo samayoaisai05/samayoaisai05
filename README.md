@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <h1>¡Hola! Soy Marvin Gómez 👋</h1>
+  <h1>¡Hi There 👋</h1>
   <br>
   
   <hr style="border: 1px solid #30363D; margin: 20px 0;">
@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/samayoaisai05">
-    <img src="https://www.canva.com/design/DAG7hbe9hj0/LbOPY1Fr5aOPl-_ACLgiFg/edit" alt="Banner del Perfil" width="100%" />
+    <img src="https://github.com/samayoaisai05/samayoaisai05/blob/main/MarvinBanner.png?raw=true" alt="Banner del Perfil" width="100%" />
   </a>
 </div>
 
