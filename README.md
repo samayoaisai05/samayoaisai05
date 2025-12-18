@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/samayoaisai05">
-    <img src="https://github.com/samayoaisai05/samayoaisai05/blob/main/MarvinBanner.png?raw=true" alt="Banner del Perfil" width="100%" />
+    <img src="https://github.com/samayoaisai05/samayoaisai05/blob/main/Banner1.png?raw=true" alt="Banner del Perfil" width="100%" />
   </a>
 </div>
 
