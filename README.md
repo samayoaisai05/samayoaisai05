@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <h1>¡Hi There 👋</h1>
+  <h1>Hola 👋</h1>
   <br>
   
   <hr style="border: 1px solid #30363D; margin: 20px 0;">
@@ -53,9 +53,12 @@
     <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Badge" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </p>
+
   
-  </div>
+</div>
 
 <br>
 
