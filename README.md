@@ -19,7 +19,7 @@
   <h2 style="color: #58A6FF;">🌟 Sobre Mí</h2>
   
   <p style="font-size: 1.1em; color: #C9D1D9;">
-    Soy un entusiasta del desarrollo de software dando mis primeros pasos en el emocionante mundo del <strong>Backend.</strong> 
+    Soy un entusiasta del desarrollo de software dando mis primeros pasos en el emocionante mundo del <strong>Desarrollo Web / Backend.</strong> 
     Mi viaje recién comienza, pero estoy dedicado a aprender a construir sistemas robustos, eficientes y escalables.
   </p>
   
@@ -28,7 +28,7 @@
     <ul style="list-style-type: none; padding-left: 0;">
       <li style="margin-bottom: 8px;">🛠️ Aprender a fondo un lenguaje de programación => Node.js.</li>
       <li style="margin-bottom: 8px;">🗄️ Dominar bases de datos SQL y NoSQL => postgreSQL/MongoDB.</li>
-      <li style="margin-bottom: 8px;">☁️ Entender los fundamentos => APIs REST, HTTP.</li>
+      <li style="margin-bottom: 8px;">☁️ Entender los fundamentos => APIs REST, HTTP, JWT, Autentificación, etc.</li>
     </ul>
   </p>
   
