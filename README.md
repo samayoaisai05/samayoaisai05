@@ -19,14 +19,15 @@
   <h2 style="color: #58A6FF;">🌟 Sobre Mí</h2>
   
   <p style="font-size: 1.1em; color: #C9D1D9;">
-    Soy un entusiasta del desarrollo de software dando mis primeros pasos en el emocionante mundo del <strong>Desarrollo Web / Backend.</strong> 
+    Soy un entusiasta de la tecnología dando mis primeros pasos en el emocionante mundo del <strong>Desarrollo de Software.</strong> 
     Mi viaje recién comienza, pero estoy dedicado a aprender a construir sistemas robustos, eficientes y escalables.
   </p>
   
   <p style="font-size: 1.1em; color: #C9D1D9;">
     Actualmente, estoy enfocándome en:
     <ul style="list-style-type: none; padding-left: 0;">
-      <li style="margin-bottom: 8px;">🛠️ Aprender a fondo un lenguaje de programación => Node.js.</li>
+      <li style="margin-bottom: 8px;">🛠️ Aprender a fondo un lenguaje de programación => Java.</li>
+      <li style="margin-bottom: 8px;">🛠️ Acompañado de un framework robusto => Spring.</li>
       <li style="margin-bottom: 8px;">🗄️ Dominar bases de datos SQL y NoSQL => postgreSQL/MongoDB.</li>
       <li style="margin-bottom: 8px;">☁️ Entender los fundamentos del desarrollo web => APIs REST, HTTP, JWT, Autentificación, etc.</li>
     </ul>
@@ -36,21 +37,12 @@
 
 <br>
 
-<div style="align: center; padding: 20px; font-size: 1.1em; color: #555555">
-  <br>
-  <p>
-    Aquí colocaré los futuros proyectos que iré realizando mediante el proceso
-  </p>
-</div>
-
-<br>
-
 <div align="center">
   <h2 style="color: #4CAF50;">🛠️ Tecnologías y Herramientas</h2>
   
   <p>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express Badge" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-Spring%20Boot-green"/>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
